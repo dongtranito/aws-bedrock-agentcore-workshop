@@ -1,4 +1,4 @@
-# Lab 1 - Ghi chú triển khai (Tiếng Việt)
+# Lab 2 - Ghi chú triển khai (Tiếng Việt)
 
 ## Tham chiếu workshop gốc
 
